@@ -48,3 +48,7 @@ To solidify your knowledge, practical application is key. In the 'exercises' dir
   - [**Complex Ternary Logic Puzzle**](./exercises/conditional-statements/exercise-7.md)
 - [**Loops**](./exercises/loops/)
   - [**Odd Numbers While Loop**](./exercises/loops/exercise-1.md)
+
+## License
+
+This project is open-sourced under the MIT license. For more details, see the [LICENSE](./LICENSE) file in the project repository.
