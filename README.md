@@ -33,3 +33,18 @@ Below is a curated list of free resources, each aimed at improving your understa
 10. [**edX JavaScript Courses:**](https://www.edx.org/search?q=javascript) Explore a variety of JavaScript courses on edX, offered by renowned institutions and industry leaders. From introductory classes that cover the basics of JavaScript to advanced courses on specific frameworks and applications, edX provides learners with the opportunity to enhance their programming skills at their own pace. Many courses are available for free, offering video lectures, interactive exercises, and community forums to support your learning journey. Whether you're just starting out or looking to specialize in areas like web development or full-stack engineering, edX has something to match every skill level and interest
 
 11. [**Steve Griffith's JavaScript Tutorials:**](https://www.youtube.com/@SteveGriffith-Prof3ssorSt3v3/playlists) Explore a wide range of JavaScript topics with Steve Griffith's engaging video playlists. From core JavaScript fundamentals to advanced concepts like data structures and messaging, these tutorials cater to both beginners and seasoned developers. Steve's clear and straightforward teaching style makes complex concepts accessible to learners of all levels. Perfect for enhancing your JavaScript knowledge at your own pace
+
+## Exercises
+
+To solidify your knowledge, practical application is key. In the 'exercises' directory, you will find various tasks to practice JavaScript. These are organized by key concepts such as loops, functions, and more. Navigate to each folder, read the instructions, and start coding! Remember, practice makes perfect.
+
+- [**Conditional Statements**](./exercises/conditional-statements/)
+  - [**Find the Largest Number**](./exercises/conditional-statements/exercise-1.md)
+  - [**Sort Four Numbers**](./exercises/conditional-statements/exercise-2.md)
+  - [**Maximum with Ternary Operator**](./exercises/conditional-statements/exercise-3.md)
+  - [**Check Number Sign**](./exercises%20&%20challenges/conditional-statements/exercise-4.md)
+  - [**Odd or Even**](./exercises/conditional-statements/exercise-5.md)
+  - [**Nested Ternary Operator Challenge**](./exercises/conditional-statements/exercise-6.md)
+  - [**Complex Ternary Logic Puzzle**](./exercises/conditional-statements/exercise-7.md)
+- [**Loops**](./exercises/loops/)
+  - [**Odd Numbers While Loop**](./exercises/loops/exercise-1.md)
