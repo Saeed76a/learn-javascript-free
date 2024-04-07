@@ -48,6 +48,9 @@ To solidify your knowledge, practical application is key. In the 'exercises' dir
   - [**Complex Ternary Logic Puzzle**](./exercises/conditional-statements/exercise-7.md)
 - [**Loops**](./exercises/loops/)
   - [**Odd Numbers While Loop**](./exercises/loops/exercise-1.md)
+- [**Functions**](./exercises/functions/)
+  - [**Palindrome Checker**](./exercises/functions/exercise-1.md)
+  - [**Reverse a Number**](./exercises/functions/exercise-2.md)
 
 ## License
 
