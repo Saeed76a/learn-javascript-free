@@ -51,6 +51,9 @@ To solidify your knowledge, practical application is key. In the 'exercises' dir
 - [**Functions**](./exercises/functions/)
   - [**Palindrome Checker**](./exercises/functions/exercise-1.md)
   - [**Reverse a Number**](./exercises/functions/exercise-2.md)
+  - [**Check for Prime**](./exercises/functions/exercise-3.md)
+  - [**Fibonacci Sequence**](./exercises/functions/exercise-4.md)
+  - [**Calculate Factorial**](./exercises/functions/exercise-5.md)
 
 ## License
 
