@@ -54,6 +54,7 @@ To solidify your knowledge, practical application is key. In the 'exercises' dir
   - [**Check for Prime**](./exercises/functions/exercise-3.md)
   - [**Fibonacci Sequence**](./exercises/functions/exercise-4.md)
   - [**Calculate Factorial**](./exercises/functions/exercise-5.md)
+  - [**Array Filter Function**](./exercises/functions/exercise-6.md)
 
 ## License
 
