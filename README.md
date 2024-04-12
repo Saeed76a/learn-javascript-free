@@ -55,6 +55,7 @@ To solidify your knowledge, practical application is key. In the 'exercises' dir
   - [**Fibonacci Sequence**](./exercises/functions/exercise-4.md)
   - [**Calculate Factorial**](./exercises/functions/exercise-5.md)
   - [**Array Filter Function**](./exercises/functions/exercise-6.md)
+  - [**Sum of Digits**](./exercises/functions/exercise-7.md)
 
 ## License
 
