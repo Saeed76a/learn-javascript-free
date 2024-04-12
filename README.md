@@ -56,6 +56,7 @@ To solidify your knowledge, practical application is key. In the 'exercises' dir
   - [**Calculate Factorial**](./exercises/functions/exercise-5.md)
   - [**Array Filter Function**](./exercises/functions/exercise-6.md)
   - [**Sum of Digits**](./exercises/functions/exercise-7.md)
+  - [**String Repeater**](./exercises/functions/exercise-8.md)
 
 ## License
 
